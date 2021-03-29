@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\initNew\Stima2\Stima\bin\Release\Stima.exe.config
+C:\Users\User\Downloads\initNew\Stima2\Stima\bin\Release\Stima.exe
+C:\Users\User\Downloads\initNew\Stima2\Stima\bin\Release\Stima.pdb
+C:\Users\User\Downloads\initNew\Stima2\Stima\bin\Release\AutomaticGraphLayout.dll
+C:\Users\User\Downloads\initNew\Stima2\Stima\bin\Release\AutomaticGraphLayout.Drawing.dll
+C:\Users\User\Downloads\initNew\Stima2\Stima\bin\Release\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\User\Downloads\initNew\Stima2\Stima\bin\Release\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\User\Downloads\initNew\Stima2\Stima\obj\Release\Stima2.Apps.resources
+C:\Users\User\Downloads\initNew\Stima2\Stima\obj\Release\Stima.Properties.Resources.resources
+C:\Users\User\Downloads\initNew\Stima2\Stima\obj\Release\Stima.csproj.GenerateResource.cache
+C:\Users\User\Downloads\initNew\Stima2\Stima\obj\Release\Stima.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\initNew\Stima2\Stima\obj\Release\Stima.csproj.CopyComplete
+C:\Users\User\Downloads\initNew\Stima2\Stima\obj\Release\Stima.exe
+C:\Users\User\Downloads\initNew\Stima2\Stima\obj\Release\Stima.pdb
